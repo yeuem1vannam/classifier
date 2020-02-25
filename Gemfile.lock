@@ -4,7 +4,7 @@ GEM
     diff-lcs (1.2.5)
     fast-stemmer (1.0.2)
     json (1.8.1)
-    rake (10.1.1)
+    rake (13.0.1)
     rdoc (4.1.0)
       json (~> 1.4)
     rspec (2.14.1)
@@ -21,6 +21,9 @@ PLATFORMS
 
 DEPENDENCIES
   fast-stemmer
-  rake
+  rake (>= 12.3.3)
   rdoc
   rspec
+
+BUNDLED WITH
+   1.17.3
