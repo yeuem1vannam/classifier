@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 gem 'rake'
 gem 'rspec', :require => 'spec'
-gem 'rdoc' 
+gem 'rdoc' , '>= 4.3.0'
 gem 'fast-stemmer'
